@@ -16,7 +16,8 @@
           {
             "group": "Fortnite",
             "pages": [
-              "pages/veloria-fortnite"
+              "pages/veloria-fortnite",
+              "pages/fortnite-nfa"
             ]
           },
           {
